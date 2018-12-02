@@ -1,2 +1,7 @@
 # gsoc15-amarok
-Links for the commits and blogposts made during the Google Summer of Code 2015 program with KDE
+
+Link for the commits make during Google Summer of Code working with KDE to port Amarok:
+https://cgit.kde.org/amarok.git/log/?qt=author&q=Aroonav+Mishra
+
+Link for blogposts documenting the work during the summer:
+http://binaryspring.blogspot.com/search/label/gsoc
